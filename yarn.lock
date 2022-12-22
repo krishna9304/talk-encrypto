@@ -1347,6 +1347,11 @@ vite@^3.1.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
+web-digital-watermarking@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/web-digital-watermarking/-/web-digital-watermarking-0.0.6.tgz#99be627ab9850c8a08d21b856fbfdb2fc1e65486"
+  integrity sha512-33AD+XlYZjA+TkKvnDrCFF3pOUVNu+oJ6T//gdpcYCG5xxddYGgqkQRDY7jLedlQdtJwJ/rp0WnPum6IwNS0WQ==
+
 ws@~8.2.3:
   version "8.2.3"
   resolved "https://registry.yarnpkg.com/ws/-/ws-8.2.3.tgz#63a56456db1b04367d0b721a0b80cae6d8becbba"

@@ -11,6 +11,7 @@ export const ApiRoutes = {
   getChats: (to: string) => `/api/chat/${to}`,
   saveChat: () => "/api/chat",
   getInbox: () => "/api/chat/inbox",
+  decodeFile: () => "/api/chat/decode",
 };
 
 export const SocketActions = {
